@@ -1,0 +1,38 @@
+{
+	"changeType": "addGroup",
+	"reference": "customer.zampf0691",
+	"namespace": "apps/customer.zampf0691/changes/",
+	"projectId": "customer.zampf0691",
+	"packageName": "$TMP",
+	"support": {
+		"generator": "sap.ui.rta.command",
+		"sapui5Version": "1.118.0",
+		"command": "createContainer"
+	},
+	"originalLanguage": "EN",
+	"layer": "CUSTOMER_BASE",
+	"fileType": "change",
+	"fileName": "id_1696337500783_191_addGroup",
+	"content": {
+		"group": {
+			"index": 0,
+			"selector": {
+				"id": "fin.cash.transfercash::sap.suite.ui.generic.template.ObjectPage.view.Details::C_MakeBankTransferTP--id-1696337500759-190",
+				"idIsLocal": false
+			}
+		}
+	},
+	"texts": {
+		"groupLabel": {
+			"value": "New: Group",
+			"type": "XFLD"
+		}
+	},
+	"selector": {
+		"id": "fin.cash.transfercash::sap.suite.ui.generic.template.ObjectPage.view.Details::C_MakeBankTransferTP--COLLFAC3::Form",
+		"idIsLocal": false
+	},
+	"dependentSelector": {},
+	"jsOnly": false,
+	"creation": "2023-10-03T12:51:41.512Z"
+}

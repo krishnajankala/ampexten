@@ -1,0 +1,32 @@
+{
+	"changeType": "renameField",
+	"reference": "customer.zampf0691",
+	"namespace": "apps/customer.zampf0691/changes/",
+	"projectId": "customer.zampf0691",
+	"packageName": "$TMP",
+	"support": {
+		"generator": "sap.ui.rta.command",
+		"sapui5Version": "1.118.0",
+		"command": "rename"
+	},
+	"originalLanguage": "EN",
+	"layer": "CUSTOMER_BASE",
+	"fileType": "change",
+	"fileName": "id_1696337484216_187_renameField",
+	"content": {
+		"originalControlType": "sap.ui.comp.smartform.GroupElement"
+	},
+	"texts": {
+		"fieldLabel": {
+			"value": "Sending Bank Account Technical ID",
+			"type": "XFLD"
+		}
+	},
+	"selector": {
+		"id": "fin.cash.transfercash::sap.suite.ui.generic.template.ObjectPage.view.Details::C_MakeBankTransferTP--Q1::PayingBankAccountInternalID::GroupElement",
+		"idIsLocal": false
+	},
+	"dependentSelector": {},
+	"jsOnly": false,
+	"creation": "2023-10-03T12:51:27.412Z"
+}

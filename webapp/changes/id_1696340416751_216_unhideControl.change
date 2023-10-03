@@ -1,0 +1,26 @@
+{
+	"changeType": "unhideControl",
+	"reference": "customer.zampf0691",
+	"namespace": "apps/customer.zampf0691/changes/",
+	"projectId": "customer.zampf0691",
+	"packageName": "$TMP",
+	"support": {
+		"generator": "sap.ui.rta.command",
+		"sapui5Version": "1.118.0",
+		"compositeCommand": "id_1696340416751_217_composite",
+		"command": "reveal"
+	},
+	"originalLanguage": "EN",
+	"layer": "CUSTOMER_BASE",
+	"fileType": "change",
+	"fileName": "id_1696340416751_216_unhideControl",
+	"content": {},
+	"texts": {},
+	"selector": {
+		"id": "fin.cash.transfercash::sap.suite.ui.generic.template.ListReport.view.ListReport::C_MakeBankTransferTP--template::AddCardtoInsights",
+		"idIsLocal": false
+	},
+	"dependentSelector": {},
+	"jsOnly": false,
+	"creation": "2023-10-03T13:40:17.099Z"
+}

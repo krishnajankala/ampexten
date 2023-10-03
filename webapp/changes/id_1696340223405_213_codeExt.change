@@ -1,0 +1,23 @@
+{
+	"changeType": "codeExt",
+	"reference": "customer.zampf0691",
+	"namespace": "apps/customer.zampf0691/changes/",
+	"projectId": "customer.zampf0691",
+	"moduleName": "customer/zampf0691/changes/coding/Linkfrag",
+	"support": {
+		"generator": "rta.service.ControllerExtension",
+		"sapui5Version": "1.118.0"
+	},
+	"originalLanguage": "EN",
+	"layer": "CUSTOMER_BASE",
+	"fileType": "change",
+	"fileName": "id_1696340223405_213_codeExt",
+	"content": {
+		"codeRef": "coding/Linkfrag.js"
+	},
+	"texts": {},
+	"selector": {
+		"controllerName": "sap.suite.ui.generic.template.ListReport.view.ListReport"
+	},
+	"creation": "2023-10-03T13:37:03.418Z"
+}

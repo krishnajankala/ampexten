@@ -1,0 +1,47 @@
+{
+	"changeType": "addFields",
+	"reference": "customer.zampf0691",
+	"namespace": "apps/customer.zampf0691/changes/",
+	"projectId": "customer.zampf0691",
+	"packageName": "$TMP",
+	"support": {
+		"generator": "sap.ui.rta.command",
+		"sapui5Version": "1.118.0",
+		"compositeCommand": "id_1696337631587_235_composite",
+		"command": "addDelegateProperty"
+	},
+	"oDataInformation": {
+		"oDataServiceUri": "/sap/opu/odata/sap/FCLM_CASH_BANKTRANSFER_SRV/",
+		"propertyName": "PaymentRequest",
+		"entityType": "C_MakeBankTransferTPType"
+	},
+	"originalLanguage": "EN",
+	"layer": "CUSTOMER_BASE",
+	"fileType": "change",
+	"fileName": "id_1696337631591_236_addFields",
+	"content": {
+		"field": {
+			"value": ["PaymentRequest"],
+			"valueProperty": ["value"],
+			"selector": {
+				"id": "fin.cash.transfercash::sap.suite.ui.generic.template.ObjectPage.view.Details::C_MakeBankTransferTP--id-1696337500759-190_C_MakeBankTransferTPType_PaymentRequest",
+				"idIsLocal": false
+			},
+			"jsTypes": ["sap.ui.comp.smartfield.SmartField"],
+			"index": 0
+		}
+	},
+	"texts": {},
+	"selector": {
+		"id": "fin.cash.transfercash::sap.suite.ui.generic.template.ObjectPage.view.Details::C_MakeBankTransferTP--id-1696337500759-190",
+		"idIsLocal": false
+	},
+	"dependentSelector": {
+		"form": {
+			"id": "fin.cash.transfercash::sap.suite.ui.generic.template.ObjectPage.view.Details::C_MakeBankTransferTP--COLLFAC3::Form",
+			"idIsLocal": false
+		}
+	},
+	"jsOnly": false,
+	"creation": "2023-10-03T12:53:52.397Z"
+}
